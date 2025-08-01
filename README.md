@@ -20,7 +20,7 @@ A lightweight and easy-to-use Arduino library to read temperature and humidity d
 ### Option 1: Manual
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/DHT11.git
+   git clone https://github.com/ekozkan/DHT11.git
 
 
 2. Copy the `DHT11.h` and `DHT11.cpp` files into your Arduino project's folder.
